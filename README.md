@@ -5,10 +5,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **GATE Qualified:** Cleared the GATE Examination in Computer Science & IT
+## 👨‍💻 About Me
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwcmM1bmszdXN4NTN0dW96bWZ6Y2g0NXh5bW1uM2E5bXp6ZXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350" />
+
+- 🎓 **GATE 2024 Qualified:** Cleared the GATE Examination in Computer Science.
 - 🚀 **AI/ML & GenAI:** Deeply interested in Large Language Models (LLMs), RAG pipelines, and Agentic AI workflows.
 - 📊 **Problem Solver:** Active participant on Kaggle, optimizing neural network architectures and engineering features.
+
+<br clear="right"/>
 
 ---
 
