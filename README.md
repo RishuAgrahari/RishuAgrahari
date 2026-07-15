@@ -53,4 +53,4 @@
 
 ### 📊 My GitHub Stats
 
-![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishuAgrahari&show_icons=true&theme=radial)
+![Rishu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RishuAgrahari&show_icons=true&theme=radial)
