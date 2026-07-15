@@ -52,4 +52,5 @@
 ---
 
 ### 📊 My GitHub Stats
-![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishuAgrahari&theme=buefy&show_icons=true&hide_border=true)
+
+![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishuAgrahari&show_icons=true&theme=radial)
